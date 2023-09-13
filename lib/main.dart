@@ -9,6 +9,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
+     //this is a test commit from flutter file
+      
       title: "Bismiallah",
       home: Scaffold(
         appBar: AppBar(
